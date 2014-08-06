@@ -1,29 +1,29 @@
 - topic: LibreOffice 4.3
-  filename: c-introa.html
+  filename: c-intro.html
   child: false
   publish: true
 
-- topic: How to download and install LibreOffice
+- topic: Download and Install LibreOffice
   filename: t-install.html
   child: false
   publish: true
 
-- topic: How to gain better feedback
+- topic: Write in LibreOffice Writer
   filename: t-feedback.html
   child: true
   publish: true
 
-- topic: How to create charts
+- topic: Charts in LibreOffice Charts
   filename: t-chart.html
   child: false
   publish: true
 
-- topic: How to create a presentation
+- topic: Presentations in LibreOffice Impress
   filename: t-presentation.html
   child: false
   publish: true
 
-- topic: Help
+- topic: Need Help?
   filename: help.html
   child: false
   publish: true
