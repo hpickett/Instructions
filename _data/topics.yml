@@ -19,7 +19,7 @@
   publish: true
 
 - topic: Presentations in LibreOffice Impress
-  filename: t-presentation.html
+  filename: t-pres.html
   child: false
   publish: true
 
