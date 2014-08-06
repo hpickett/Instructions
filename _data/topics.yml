@@ -4,12 +4,12 @@
   publish: true
 
 - topic: Download and Install LibreOffice
-  filename: t-install.html
+  filename: t-download.html
   child: false
   publish: true
 
 - topic: Write in LibreOffice Writer
-  filename: t-feedback.html
+  filename: t-writer.html
   child: true
   publish: true
 
