@@ -10,7 +10,7 @@
 
 - topic: Write in LibreOffice Writer
   filename: t-writer.html
-  child: true
+  child: false
   publish: true
 
 - topic: Charts in LibreOffice Charts
